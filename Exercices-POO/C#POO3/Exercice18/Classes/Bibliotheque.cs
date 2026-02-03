@@ -20,7 +20,7 @@ public class Bibliotheque
             Livre aSupprimer = livres.Find(l => l.Numero == numero);
             if (aSupprimer == null)
             {
-                Console.WriteLine($"\nAucun livre trouvé avec le numéro {numero}");
+                Console.WriteLine($"Aucun livre trouvé avec le numéro {numero}");
                 return false;
             }
 
@@ -33,15 +33,15 @@ public class Bibliotheque
         {
             if (livres.Count == 0)
             {
-                Console.WriteLine("La bibliothèque est vide.");
+                Console.WriteLine("La bibliothèque du Monde des Douzes est vide.");
                 return;
             }
 
-            Console.WriteLine("Liste des livres :");
-            Console.WriteLine("N°");
-            Console.WriteLine(" Titre");
-            Console.WriteLine("Auteur");
-            Console.WriteLine("Dispo");
+            Console.WriteLine("Liste des livres du Monde des Douzes :");
+            Console.WriteLine("N° :");
+            Console.WriteLine("Titre :");
+            Console.WriteLine("Auteur :");
+            Console.WriteLine("Dispo : ");
 
             foreach (var livre in livres)
             {
@@ -55,7 +55,7 @@ public class Bibliotheque
             string rechercheLower = recherche?.Trim().ToLower() ?? "";
             if (string.IsNullOrWhiteSpace(rechercheLower))
             {
-                Console.WriteLine("Veuillez entrer un titre valide.");
+                Console.WriteLine("Veuillez entrer un titre valide jeune Tofu soyeux !");
                 return;
             }
 
@@ -80,7 +80,7 @@ public class Bibliotheque
             string rechercheLower = recherche?.Trim().ToLower() ?? "";
             if (string.IsNullOrWhiteSpace(rechercheLower))
             {
-                Console.WriteLine("\nVeuillez entrer un auteur valide.");
+                Console.WriteLine("Veuillez entrer un auteur valide jeune Tofu soyeux !");
                 return;
             }
 

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90CBAD8D-259E-442A-B27E-318F2D923DFC}|Exercice17\\Exercice17.csproj|c:\\users\\userprf\\desktop\\mcpd\\exercices-poo\\c#poo3\\exercice17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90CBAD8D-259E-442A-B27E-318F2D923DFC}|Exercice17\\Exercice17.csproj|solutionrelative:exercice17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice18\\Classes\\Bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCE3E03B-78F5-4183-8AF4-0CBF32BC8282}|Exercice16\\Exercice16.csproj|c:\\users\\userprf\\desktop\\mcpd\\exercices-poo\\c#poo3\\exercice16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE3E03B-78F5-4183-8AF4-0CBF32BC8282}|Exercice16\\Exercice16.csproj|solutionrelative:exercice16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice18\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice18\\Classes\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,27 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice16\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice16\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice16\\Program.cs",
-              "RelativeToolTip": "Exercice16\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Livre.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Classes\\Livre.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Livre.cs",
+              "RelativeToolTip": "Exercice18\\Classes\\Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:51:19.485Z"
+              "WhenOpened": "2026-02-03T11:21:19.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice17\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
-              "RelativeToolTip": "Exercice17\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Classes\\Bibliotheque.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Classes\\Bibliotheque.cs",
+              "RelativeToolTip": "Exercice18\\Classes\\Bibliotheque.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:34:01.807Z",
+              "WhenOpened": "2026-02-03T11:20:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice18\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice18\\Program.cs",
+              "RelativeToolTip": "Exercice18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:16:13.625Z",
               "EditorCaption": ""
             }
           ]

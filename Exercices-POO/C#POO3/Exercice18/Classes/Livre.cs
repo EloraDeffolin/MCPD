@@ -20,7 +20,7 @@ namespace Livre
 
         public override string ToString()
         {
-            return $"#{Numero,-4} | {Titre,-35} | {Auteur,-25} | Dispo: {ExemplairesDisponibles,3}";
+            return $" Le numéro : {Numero} | Le titre : {Titre} | L'auteur : {Auteur} | Le exemplaires disponibles : {ExemplairesDisponibles} ";
         }
     }
 }
