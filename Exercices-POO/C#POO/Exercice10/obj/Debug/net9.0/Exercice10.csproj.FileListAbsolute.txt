@@ -1,0 +1,4 @@
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\Exercice10\obj\Debug\net9.0\Exercice10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\Exercice10\obj\Debug\net9.0\Exercice10.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\Exercice10\obj\Debug\net9.0\Exercice10.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\Exercice10\obj\Debug\net9.0\Exercice10.csproj.CoreCompileInputs.cache

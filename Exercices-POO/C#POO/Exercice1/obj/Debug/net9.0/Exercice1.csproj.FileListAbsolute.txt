@@ -1,0 +1,14 @@
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\bin\Debug\net9.0\Exercice1.exe
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\bin\Debug\net9.0\Exercice1.deps.json
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\bin\Debug\net9.0\Exercice1.runtimeconfig.json
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\bin\Debug\net9.0\Exercice1.dll
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\bin\Debug\net9.0\Exercice1.pdb
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.AssemblyInfo.cs
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.dll
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\refint\Exercice1.dll
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.pdb
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\Exercice1.genruntimeconfig.cache
+C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO\C#POO\obj\Debug\net9.0\ref\Exercice1.dll
