@@ -12,3 +12,11 @@ C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO2\Exercice15\obj\Debug\net9.0\r
 C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.pdb
 C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.genruntimeconfig.cache
 C:\Users\userprf\Desktop\Dev_microsoft_laho\C#POO2\Exercice15\obj\Debug\net9.0\ref\Exercice15.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.sourcelink.json
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\refint\Exercice15.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO2\Exercice15\obj\Debug\net9.0\Exercice15.pdb

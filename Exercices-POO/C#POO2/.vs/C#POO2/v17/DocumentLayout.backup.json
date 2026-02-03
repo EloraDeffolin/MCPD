@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\",
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\interface\\iattaquespeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\interface\\iattaquespeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IMagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Interface\\IMagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\interface\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\interface\\imagie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IAttaqueSpeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Interface\\IAttaqueSpeciale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Classes\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Classes\\Mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\GuerrierMage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Classes\\GuerrierMage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\guerriermage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Classes\\Guerrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|c:\\users\\userprf\\desktop\\dev_microsoft_laho\\c#poo2\\exercice15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE87A5F6-2EC3-1CEE-2A69-8D8610625D3B}|Exercice15\\Exercice15.csproj|solutionrelative:exercice15\\classes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercice15\\Classes\\Arme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Program.cs",
               "RelativeDocumentMoniker": "Exercice15\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Program.cs*",
-              "RelativeToolTip": "Exercice15\\Program.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Program.cs",
+              "RelativeToolTip": "Exercice15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T14:01:21.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IMagie.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Interface\\IMagie.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IMagie.cs",
               "RelativeDocumentMoniker": "Exercice15\\Interface\\IMagie.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Interface\\IMagie.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IMagie.cs",
               "RelativeToolTip": "Exercice15\\Interface\\IMagie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:20.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:01:20.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IAttaqueSpeciale.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Interface\\IAttaqueSpeciale.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IAttaqueSpeciale.cs",
               "RelativeDocumentMoniker": "Exercice15\\Interface\\IAttaqueSpeciale.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Interface\\IAttaqueSpeciale.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Interface\\IAttaqueSpeciale.cs",
               "RelativeToolTip": "Exercice15\\Interface\\IAttaqueSpeciale.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:18.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:01:18.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Personnage.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Personnage.cs",
               "RelativeDocumentMoniker": "Exercice15\\Classes\\Personnage.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Personnage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Personnage.cs",
               "RelativeToolTip": "Exercice15\\Classes\\Personnage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:16.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Mage.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Mage.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Mage.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Mage.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\Mage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:15.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuerrierMage.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\GuerrierMage.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\GuerrierMage.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\GuerrierMage.cs",
-              "RelativeToolTip": "Exercice15\\Classes\\GuerrierMage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:14.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Guerrier.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Guerrier.cs",
-              "RelativeDocumentMoniker": "Exercice15\\Classes\\Guerrier.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Guerrier.cs*",
-              "RelativeToolTip": "Exercice15\\Classes\\Guerrier.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:13.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:01:16.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Mage.cs",
+              "RelativeDocumentMoniker": "Exercice15\\Classes\\Mage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Mage.cs",
+              "RelativeToolTip": "Exercice15\\Classes\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:01:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuerrierMage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\GuerrierMage.cs",
+              "RelativeDocumentMoniker": "Exercice15\\Classes\\GuerrierMage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\GuerrierMage.cs",
+              "RelativeToolTip": "Exercice15\\Classes\\GuerrierMage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:01:14.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Guerrier.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Guerrier.cs",
+              "RelativeDocumentMoniker": "Exercice15\\Classes\\Guerrier.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Guerrier.cs",
+              "RelativeToolTip": "Exercice15\\Classes\\Guerrier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T14:01:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Arme.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Arme.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Arme.cs",
               "RelativeDocumentMoniker": "Exercice15\\Classes\\Arme.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\Dev_microsoft_laho\\C#POO2\\Exercice15\\Classes\\Arme.cs*",
-              "RelativeToolTip": "Exercice15\\Classes\\Arme.cs*",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO2\\Exercice15\\Classes\\Arme.cs",
+              "RelativeToolTip": "Exercice15\\Classes\\Arme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T14:01:11.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T14:01:11.011Z"
             }
           ]
         }
