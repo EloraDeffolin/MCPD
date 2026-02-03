@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
-              "RelativeDocumentMoniker": "Exercice17\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
-              "RelativeToolTip": "Exercice17\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:34:01.807Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +28,21 @@
               "RelativeDocumentMoniker": "Exercice16\\Program.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice16\\Program.cs",
               "RelativeToolTip": "Exercice16\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T10:12:25.175Z",
+              "WhenOpened": "2026-02-03T10:51:19.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice17\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-POO\\C#POO3\\Exercice17\\Program.cs",
+              "RelativeToolTip": "Exercice17\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:34:01.807Z",
               "EditorCaption": ""
             }
           ]
