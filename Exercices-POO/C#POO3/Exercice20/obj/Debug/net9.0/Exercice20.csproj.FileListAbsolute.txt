@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\bin\Debug\net9.0\Exercice20.exe
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\bin\Debug\net9.0\Exercice20.deps.json
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\bin\Debug\net9.0\Exercice20.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\bin\Debug\net9.0\Exercice20.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\bin\Debug\net9.0\Exercice20.pdb
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.sourcelink.json
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\refint\Exercice20.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.pdb
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\Exercice20.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-POO\C#POO3\Exercice20\obj\Debug\net9.0\ref\Exercice20.dll
