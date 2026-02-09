@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\bin\Debug\net9.0\ExerciceADO.exe
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\bin\Debug\net9.0\ExerciceADO.deps.json
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\bin\Debug\net9.0\ExerciceADO.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\bin\Debug\net9.0\ExerciceADO.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\bin\Debug\net9.0\ExerciceADO.pdb
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.sourcelink.json
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\refint\ExerciceADO.dll
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.pdb
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ExerciceADO.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\ExerciceADO\obj\Debug\net9.0\ref\ExerciceADO.dll
