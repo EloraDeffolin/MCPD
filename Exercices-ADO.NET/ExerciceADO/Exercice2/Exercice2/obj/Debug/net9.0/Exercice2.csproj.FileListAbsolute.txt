@@ -1,0 +1,5 @@
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice2\Exercice2\obj\Debug\net9.0\Exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice2\Exercice2\obj\Debug\net9.0\Exercice2.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice2\Exercice2\obj\Debug\net9.0\Exercice2.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice2\Exercice2\obj\Debug\net9.0\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice2\Exercice2\obj\Debug\net9.0\Exercice2.sourcelink.json

@@ -1,4 +1,4 @@
-﻿sing GestionEtudiantsAdoNet.Classes;
+﻿static string connectionString = "Server=localhost;Uid=root;Pwd=;Database=ado"; sing GestionEtudiantsAdoNet.Classes;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
