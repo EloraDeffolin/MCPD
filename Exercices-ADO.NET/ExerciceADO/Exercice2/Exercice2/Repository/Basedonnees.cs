@@ -39,7 +39,7 @@ public class DatabaseService
         return clients;
     }
 
-   
+
     public bool AjouterClient(Client nouveauClient)
     {
         using (MySqlConnection connection = new MySqlConnection(connectionString))
@@ -210,7 +210,7 @@ public class DatabaseService
         {
             foreach (Commande cmd in commandes)
             {
-                Console.WriteLine($"  N°{cmd.Id,-6} | {cmd.DateCommande:dd/MM/yyyy} | {cmd.Total,10:F2} €");
+                Console.WriteLine($" N°{cmd.Id,-6} | {cmd.DateCommande:dd/MM/yyyy} | {cmd.Total,10:F2} €");
             }
         }
         Console.WriteLine();

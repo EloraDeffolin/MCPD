@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\RecetteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbManager\\RecetteService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\CuisineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbManager\\CuisineContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\RecetteIngredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classe\\Model\\RecetteIngredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classe\\Model\\Recette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Classe\\Model\\Ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Classe\\Model\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Ingredient.cs",
+              "RelativeToolTip": "Classe\\Model\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:32:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recette.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Recette.cs",
+              "RelativeDocumentMoniker": "Classe\\Model\\Recette.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\Recette.cs",
+              "RelativeToolTip": "Classe\\Model\\Recette.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:32:24.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecetteIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\RecetteIngredient.cs",
+              "RelativeDocumentMoniker": "Classe\\Model\\RecetteIngredient.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Classe\\Model\\RecetteIngredient.cs",
+              "RelativeToolTip": "Classe\\Model\\RecetteIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:32:50.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuisineContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\CuisineContext.cs",
+              "RelativeDocumentMoniker": "DbManager\\CuisineContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\CuisineContext.cs",
+              "RelativeToolTip": "DbManager\\CuisineContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:33:34.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecetteService.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\RecetteService.cs",
+              "RelativeDocumentMoniker": "DbManager\\RecetteService.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\DbManager\\RecetteService.cs",
+              "RelativeToolTip": "DbManager\\RecetteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:33:48.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPD\\Exercices-ADO.NET\\ExerciceADO\\Exercice3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:34:22.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
