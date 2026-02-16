@@ -1,0 +1,5 @@
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice5Hotel\Exercice5Hotel\obj\Debug\net9.0\Exercice4Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice5Hotel\Exercice5Hotel\obj\Debug\net9.0\Exercice4Hotel.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice5Hotel\Exercice5Hotel\obj\Debug\net9.0\Exercice4Hotel.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice5Hotel\Exercice5Hotel\obj\Debug\net9.0\Exercice4Hotel.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ADO.NET\ExerciceADO\Exercice5Hotel\Exercice5Hotel\obj\Debug\net9.0\Exercice4Hotel.sourcelink.json

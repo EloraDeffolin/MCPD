@@ -18,6 +18,6 @@ public class Reservation
 
     public override string ToString()
     {
-        return $"{Id,4} | {Statut,-10} | Chambre {Chambre?.Numero} | {Client?.NomComplet,-25} | {DateArrivee:dd/MM} → {DateDepart:dd/MM}";
+        return $"{Id} | {Statut} | Chambre {Chambre} | {Client} | {DateArrivee} | {DateDepart}";
     }
 }

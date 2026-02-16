@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exercice4Hotel")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exercice5Hotel")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f6a5f1da3646744606888327ab9850c8a95979")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exercice4Hotel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exercice4Hotel")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83465eacf0a1ec6a02cb2c6ac7f393bf3de51de")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exercice5Hotel")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exercice5Hotel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

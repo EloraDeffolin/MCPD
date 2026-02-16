@@ -23,8 +23,6 @@ class Program
                 continue;
             }
 
-            Console.Clear();
-
             switch (choix)
             {
                 case 1:
@@ -78,7 +76,7 @@ class Program
         Console.WriteLine("Nom complet");
         Console.WriteLine("Téléphone");
 
-        foreach (var c in hotel.GetClientsAlphabetique())
+        foreach (int c in hotel.GetClientsAlphabetique())
         {
             Console.WriteLine(c);
         }
@@ -87,7 +85,7 @@ class Program
     static void AfficherChambresLibres(HotelService hotel)
     {
         Console.WriteLine("CHAMBRES LIBRES");
-        Console.WriteLine(" Nº  | Statut       | Lits | Tarif");
+        Console.WriteLine(" Nº | Statut | Lits | Tarif");
 
         int libres = hotel.GetChambresLibres();
         if (!libres.Any())
@@ -104,7 +102,7 @@ class Program
 
     static void AfficherToutesChambres(HotelService hotel)
     {
-        Console.WriteLine("TOUTES LES CHAMBRES");
+        Console.WriteLine("TOUTES LES CHAMBRES :");
         Console.WriteLine(" Nº | Statut | Lits | Tarif");
 
         foreach (int ch in hotel.GetToutesLesChambres())
@@ -115,7 +113,7 @@ class Program
 
     static void CreerNouvelleReservation(HotelService hotel)
     {
-        Console.WriteLine("NOUVELLE RÉSERVATION");
+        Console.WriteLine("NOUVELLE RÉSERVATION :");
 
         Console.Write("ID du client : ");
         if (!int.TryParse(Console.ReadLine(), out int idClient))
