@@ -1,4 +1,8 @@
-﻿public class ProductService
+﻿using System;
+using Exercice4.Models;
+using Microsoft.AspNetCore.Mvc;
+
+public class ProductService
 {
     private readonly List<Product> _products;
 

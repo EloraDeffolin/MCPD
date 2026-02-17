@@ -1,4 +1,5 @@
 ﻿using System;
+using Exercice4.Models;
 using Microsoft.AspNetCore.Mvc;
 
 public class ProductController : Controller
