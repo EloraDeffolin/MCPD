@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Présentation";
+    
+    string prenom = ViewData["Prenom"]?.ToString() ?? "Inconnu";
+    int age = ViewData["Age"] as int? ?? 0;
+    var hobbies = ViewData["Hobbies"] as List<string> ?? new List<string>();
+}
+
+<h1>Présentation</h1>
+
+<p><strong>Nom :</strong> @prenom</p>
+<p><strong>Âge :</strong> @age</p>
+
+<p><strong>Statut :</strong> 
+    @if (age >= 18)
+    {
+        <span>Majeur</span>
+    }
+    else
+    {
+        <span>Mineur</span>
+    }
+</p>
+
+<h3>Hobbies :</h3>
+
+@if (hobbies.Count == 0)
+{
+    <p>Aucun hobby renseigné</p>
+}
+else
+{
+    <ul>
+        @foreach (var hobby in hobbies)
+        {
+            <li>@hobby</li>
+        }
+    </ul>
+}
+
+<h3>Bonus - Nombres de 1 à 10 (pairs en gras)</h3>
+<ol>
+    @for (int i = 1; i <= 10; i++)
+    {
+        if (i % 2 == 0)
+        {
+            <li><strong>@i</strong></li>
+        }
+        else
+        {
+            <li>@i</li>
+        }
+    }
+</ol>
