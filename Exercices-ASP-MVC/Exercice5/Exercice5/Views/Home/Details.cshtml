@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Succes - Exercice5_rooting_formulaire</title>
+</head>
+<body>
+
+@{
+    ViewData["Title"] = "Détails du produit";
+}
+
+<h1>Détails du produit</h1>
+
+<div>
+	<h2>Nom</h2>
+	<span>@Model.Name</span>
+
+	<h2>Prix</h2>
+	<span>@Model.Price.ToString()</span>
+
+	<h2>Category</h2>
+	<span>@Model.Category.ToString()</span>
+</div>
+
+<div>
+    <a asp-action="Form">Retour au formulaire</a>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,9 @@
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.RazorAssemblyInfo.cache
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.RazorAssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPD\Exercices-ASP-MVC\Exercice5\Exercice5\obj\Debug\net9.0\Exercice5.sourcelink.json
